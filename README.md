@@ -13,16 +13,16 @@ Instructions.txt contains the neccessary instructions for the first HTML/CSS cha
 Below is a list of coding challenges that increase in difficulty. Although we don't expect you to finish all of them, we would love to see you take the challange and attempt them to see how far you can get.
 When you finish each fiddle, click the 'update' button and that will create your own URL with your solution. Change the SOLUTION-URL with your new URL that contains the solution. Once you finish, zip up your code and email back to admin+assessment@devmounta.in
 
-* [Name] - http://jsfiddle.net/U3ezV/ - SOLUTION-URL
-* [Food] - http://jsfiddle.net/9Z3YG/ - SOLUTION-URL
-* [Double] - http://jsfiddle.net/hu85B/ - SOLUTION-URL
-* [Addition] - http://jsfiddle.net/M8pZf/ - SOLUTION-URL
-* [First] - http://jsfiddle.net/zsFvE/ - SOLUTION-URL
-* [Last] -  http://jsfiddle.net/hJZUE/ - SOLUTION-URL
-* [Loop] - http://jsfiddle.net/YM7th/ - SOLUTION-URL
-* [numSum] - http://jsfiddle.net/b2ysK/ - SOLUTION-URL
-* [oddsAndEvens] - http://jsfiddle.net/4zfcz/ - SOLUTION-URL
-* [me] - http://jsfiddle.net/5Ua3r/ - SOLUTION-URL
-* [favoriteThings] - http://jsfiddle.net/zCcnT/ - SOLUTION-URL
-* [firstLoop] - http://jsfiddle.net/Lgf3G/ - SOLUTION-URL
-* [userObj] - http://jsfiddle.net/VkvMV/ - SOLUTION-URL
+* [Name] - http://jsfiddle.net/U3ezV/ - SOLUTION-URL - http://jsfiddle.net/U3ezV/149/
+* [Food] - http://jsfiddle.net/9Z3YG/ - SOLUTION-URL - http://jsfiddle.net/9Z3YG/119/
+* [Double] - http://jsfiddle.net/hu85B/ - SOLUTION-URL - http://jsfiddle.net/hu85B/128/
+* [Addition] - http://jsfiddle.net/M8pZf/ - SOLUTION-URL - http://jsfiddle.net/M8pZf/93/
+* [First] - http://jsfiddle.net/zsFvE/ - SOLUTION-URL - http://jsfiddle.net/zsFvE/142/
+* [Last] -  http://jsfiddle.net/hJZUE/ - SOLUTION-URL - http://jsfiddle.net/hJZUE/122/
+* [Loop] - http://jsfiddle.net/YM7th/ - SOLUTION-URL - http://jsfiddle.net/YM7th/109/
+* [numSum] - http://jsfiddle.net/b2ysK/ - SOLUTION-URL - http://jsfiddle.net/b2ysK/83/
+* [oddsAndEvens] - http://jsfiddle.net/4zfcz/ - SOLUTION-URL - http://jsfiddle.net/4zfcz/120/
+* [me] - http://jsfiddle.net/5Ua3r/ - SOLUTION-URL - http://jsfiddle.net/5Ua3r/91/
+* [favoriteThings] - http://jsfiddle.net/zCcnT/ - SOLUTION-URL - http://jsfiddle.net/zCcnT/102/
+* [firstLoop] - http://jsfiddle.net/Lgf3G/ - SOLUTION-URL - http://jsfiddle.net/Lgf3G/105/
+* [userObj] - http://jsfiddle.net/VkvMV/ - SOLUTION-URL - http://jsfiddle.net/VkvMV/92/

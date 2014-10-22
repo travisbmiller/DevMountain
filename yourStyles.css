@@ -3,3 +3,15 @@ body {
 }
 
 /* Your Code Here */
+
+.row-one {
+  background-color: #00FF00;} /*green*/
+
+.row-two {
+  background-color: #F0FF00;} /*yellow*/
+
+.row-three {
+  background-color: #ff0000;} /*red*/ 
+
+.row-four {
+  background-color: #0900ff;} /*blue*/ 
